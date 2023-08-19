@@ -1,3 +1,4 @@
+This app is created to give ability to edit image. You have ability to upload your image, adjust brightness, contrast, sepia and some other filters, then save your image. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
